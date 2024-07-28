@@ -1,6 +1,9 @@
 Temple of Giants 
 
 
+3rd person Shooter 
+
+Welcome to the Temple of Giants; enter if you have what it takes.
 Made with Unreal Engine 5 
 
 
