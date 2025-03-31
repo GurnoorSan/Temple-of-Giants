@@ -5,6 +5,7 @@ Temple of Giants
 
 Welcome to the Temple of Giants; enter if you have what it takes.
 
+To run, please import files to Unreal Engine 5, as most files are compressed and might not show on Git Hub properly. 
 
 Made with Unreal Engine 5 
 
